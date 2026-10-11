@@ -16,9 +16,16 @@
 
 ---
 
-**Apneist Pro** is where freedivers keep their diving: a profile with personal bests and verified certificates, official AIDA and CMAS results read in on their own, a dive log with photos and clips, stories from the camera, clubs and schools with their events and chats, the calendar of federation competitions, records and rankings, a map of pools and dive spots, messages with voice notes — on the web and in a native iOS app. English UI, born in Chișinău, Moldova, meant for the world.
+**Apneist Pro** is where freedivers keep their diving — on the web and in a native iOS app. English UI, born in Chișinău, Moldova, meant for the world.
 
-Opened on 2 October 2026. The iOS app followed on 11 October 2026; Android is next.
+- **Profile** — personal bests and verified certificates, with official AIDA and CMAS results read in on their own
+- **Dive log** — sessions with photos and clips, and stories straight from the camera
+- **Clubs and schools** — a page each, with their events, chats and athletes
+- **Competitions** — the federation calendar, records and rankings
+- **Map** — pools and dive spots, wherever you are
+- **Messages** — direct chats with voice notes
+
+Opened on 2 October 2026. The iOS app is in review with Apple; Android is next.
 
 <p align="center">
   <img src="../assets/shot-feed.png" width="200" alt="The feed">
@@ -39,4 +46,4 @@ Logos, colours and the rules for using them are in the [brand repository](https:
 
 The product's code is private. What is open: the brand kit, and the bugs you find — tell us at [apneist.pro/support](https://apneist.pro/support).
 
-<p align="center"><sub>Made by <a href="https://github.com/rayBastard">Roman Cuhari</a>, a freediver from Chișinău, with an AI assistant doing the typing · © 2026 Apneist Pro</sub></p>
+<p align="center"><sub>Built solo by <a href="https://github.com/rayBastard">Roman Cuhari</a>, a freediver from Chișinău, with AI in the toolbox · © 2026 Apneist Pro</sub></p>
